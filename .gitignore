@@ -1,0 +1,4 @@
+.combineignore
+combined_output.md
+extracted_project/*
+/extracted_project
